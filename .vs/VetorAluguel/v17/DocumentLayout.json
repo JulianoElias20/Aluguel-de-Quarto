@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julia\\source\\repos\\VetorAluguel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1114EADE-22D9-4AC2-A47A-EA0F9E81106E}|VetorAluguel\\VetorAluguel.csproj|c:\\users\\julia\\source\\repos\\vetoraluguel\\vetoraluguel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1114EADE-22D9-4AC2-A47A-EA0F9E81106E}|VetorAluguel\\VetorAluguel.csproj|solutionrelative:vetoraluguel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1114EADE-22D9-4AC2-A47A-EA0F9E81106E}|VetorAluguel\\VetorAluguel.csproj|c:\\users\\julia\\source\\repos\\vetoraluguel\\vetoraluguel\\aluguel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1114EADE-22D9-4AC2-A47A-EA0F9E81106E}|VetorAluguel\\VetorAluguel.csproj|solutionrelative:vetoraluguel\\aluguel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluguel.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\VetorAluguel\\VetorAluguel\\Aluguel.cs",
+              "RelativeDocumentMoniker": "VetorAluguel\\Aluguel.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\VetorAluguel\\VetorAluguel\\Aluguel.cs",
+              "RelativeToolTip": "VetorAluguel\\Aluguel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowCIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T03:30:37.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\VetorAluguel\\VetorAluguel\\Program.cs",
+              "RelativeDocumentMoniker": "VetorAluguel\\Program.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\VetorAluguel\\VetorAluguel\\Program.cs",
+              "RelativeToolTip": "VetorAluguel\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T03:19:22.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

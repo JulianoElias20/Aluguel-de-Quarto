@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\VetorAluguel\VetorAluguel\bin\Debug\net8.0\VetorAluguel.exe
+C:\Users\julia\source\repos\VetorAluguel\VetorAluguel\bin\Debug\net8.0\VetorAluguel.deps.json
+C:\Users\julia\source\repos\VetorAluguel\VetorAluguel\bin\Debug\net8.0\VetorAluguel.runtimeconfig.json
+C:\Users\julia\source\repos\VetorAluguel\VetorAluguel\bin\Debug\net8.0\VetorAluguel.dll
+C:\Users\julia\source\repos\VetorAluguel\VetorAluguel\bin\Debug\net8.0\VetorAluguel.pdb
+C:\Users\julia\source\repos\VetorAluguel\VetorAluguel\obj\Debug\net8.0\VetorAluguel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\VetorAluguel\VetorAluguel\obj\Debug\net8.0\VetorAluguel.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\VetorAluguel\VetorAluguel\obj\Debug\net8.0\VetorAluguel.AssemblyInfo.cs
+C:\Users\julia\source\repos\VetorAluguel\VetorAluguel\obj\Debug\net8.0\VetorAluguel.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\VetorAluguel\VetorAluguel\obj\Debug\net8.0\VetorAluguel.dll
+C:\Users\julia\source\repos\VetorAluguel\VetorAluguel\obj\Debug\net8.0\refint\VetorAluguel.dll
+C:\Users\julia\source\repos\VetorAluguel\VetorAluguel\obj\Debug\net8.0\VetorAluguel.pdb
+C:\Users\julia\source\repos\VetorAluguel\VetorAluguel\obj\Debug\net8.0\VetorAluguel.genruntimeconfig.cache
+C:\Users\julia\source\repos\VetorAluguel\VetorAluguel\obj\Debug\net8.0\ref\VetorAluguel.dll
